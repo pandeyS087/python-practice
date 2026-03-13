@@ -19,12 +19,40 @@ This repository documents my structured journey of learning Python for Automatio
 ---
 
 ## 📂 Programs Added So Far
-
+Numbers:
 - Prime Number Checker
 - Fibonacci Series Generator
-- Palindrome Checker
-
+- Even Odd Checker
+- Factorial of a Number
+- Multiplication Table
+- Simple Calculator
+- Armstrong Number Checker
+  
+Strings:
+- Anagram
+- Couting Vowels
+- Longest Word
+- Palindrome
+- Removing Duplicates
+- Reverse String
+- Reverse Words 
 ---
+**Projects**
+# 1.API Testing Automation (Python)
+
+This project demonstrates basic API testing using Python.
+
+## Features
+
+- Sends GET request to API
+- Validates response status code
+- Checks response data
+- Extracts fields from JSON
+
+## Technologies
+
+- Python
+- Requests library
 
 ## 🎯 Goal
 
