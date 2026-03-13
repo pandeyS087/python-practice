@@ -1,6 +1,8 @@
 # Python Practice Repository
 
-This repository documents my structured journey of learning Python for Automation and AI Engineering roles.
+This repository documents my structured journey of learning **Python for QA Automation, SDET, and AI Engineering roles**.
+
+I am building strong fundamentals in Python while creating practical projects related to **automation testing, API testing, and system validation**.
 
 ---
 
@@ -8,7 +10,7 @@ This repository documents my structured journey of learning Python for Automatio
 
 - Python Basics
 - Functions
-- OOPS
+- Object Oriented Programming (OOP)
 - File Handling
 - Exception Handling
 - Automation Scripts
@@ -18,8 +20,10 @@ This repository documents my structured journey of learning Python for Automatio
 
 ---
 
-## 📂 Programs Added So Far
-Numbers:
+## 📂 Programs Implemented
+
+### Numbers
+
 - Prime Number Checker
 - Fibonacci Series Generator
 - Even Odd Checker
@@ -27,37 +31,53 @@ Numbers:
 - Multiplication Table
 - Simple Calculator
 - Armstrong Number Checker
-  
-Strings:
-- Anagram
-- Couting Vowels
-- Longest Word
-- Palindrome
-- Removing Duplicates
+
+### Strings
+
+- Anagram Checker
+- Counting Vowels
+- Longest Word Finder
+- Palindrome Checker
+- Removing Duplicate Characters
 - Reverse String
-- Reverse Words 
+- Reverse Words
+
 ---
-**Projects**
-# 1.API Testing Automation (Python)
 
-This project demonstrates basic API testing using Python.
+# 🚀 Projects
 
-## Features
+## 1️⃣ API Testing Automation (Python)
+
+This project demonstrates **basic API automation testing using Python**.
+
+### Features
 
 - Sends GET request to API
 - Validates response status code
 - Checks response data
-- Extracts fields from JSON
+- Extracts fields from JSON response
 
-## Technologies
+### Technologies Used
 
 - Python
-- Requests library
-
-## 🎯 Goal
-
-To transition into a Python Automation Engineer role with AI-based testing expertise.
+- Requests Library
+- REST API
 
 ---
 
-Consistent learning. Consistent commits. 🚀
+## 📈 Upcoming Projects
+
+- Website Monitoring Tool
+- Log File Analyzer
+- Selenium Web Automation
+- Python API Testing Framework
+
+---
+
+## 🎯 Goal
+
+My goal is to transition into a **Python Automation Engineer / SDET role**, while developing expertise in **AI-driven testing and intelligent automation systems**.
+
+---
+
+**Consistent learning. Consistent commits. 🚀**
